@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "git@github.com:ashelkov/ashelkov-backend-app.git",
+    "project_destination_path": "ashelkov-backend-app",
+    "application_name": "ashelkov",
+    "project_technology": "rubyonrails",
+    "database_type": "postgresql"
+  }
+}
